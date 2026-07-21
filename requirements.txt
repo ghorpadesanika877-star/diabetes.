@@ -1,4 +1,7 @@
-streamlit 
+streamlit
 pandas
-numpy 
+numpy
 scikit-learn
+xgboost
+
+
